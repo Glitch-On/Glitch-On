@@ -40,13 +40,6 @@ I’m passionate about building elegant, fast, and scalable apps — from open-s
 
 ---
 
-### 🛠️ Tech I enjoy working with
-
-- **Programming Language:** Scala, Python, JavaScript, SQL, C/C++, HTML, CSS
-- **Backend Framework:** Spring Boot
-- **Frontend Framework:** Vue (JavaScript), React (JavaScript)
-- **Mobile Framework:** React Native (JavaScript)
-- **Database Engine:** PostgreSQL, MySQL
 
 
 <h2 align="center">🌐 Socials 🌐</h2>
@@ -111,6 +104,14 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 - Publish **technical articles** and share insights on GitHub & LinkedIn
 - Mentor and collaborate with the dev community
 - Contribute to **enterprise-level microservices projects**
+
+### 🛠️ Tech I enjoy working with
+
+- **Programming Language:** Scala, Python, JavaScript, SQL, C/C++, HTML, CSS
+- **Backend Framework:** Spring Boot
+- **Frontend Framework:** Vue (JavaScript), React (JavaScript)
+- **Mobile Framework:** React Native (JavaScript)
+- **Database Engine:** PostgreSQL, MySQL
 
 ## 💻 Tech Stack
 
