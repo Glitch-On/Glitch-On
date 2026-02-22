@@ -32,10 +32,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a new developer and Learning 
-
-I’m passionate about building elegant, fast, and scalable apps — from open-source tools to production-ready consumer platforms.
-
 <br>
 
 
