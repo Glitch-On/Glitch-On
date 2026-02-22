@@ -38,23 +38,6 @@ I’m passionate about building elegant, fast, and scalable apps — from open-s
 
 <br>
 
----
-
-
-
-<h2 align="center">🌐 Socials 🌐</h2>
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/vansh-gaur-63bb3337a/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
-  </a>
-  <a href="https://www.instagram.com/vanshgaur17/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
-  </a>
-  <a href="gaurvansh133@gmail.com" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
-  </a>
-</div>
 
 <h1 align="center"> I'm Vansh Gaur 👋</h1>
 
@@ -135,4 +118,22 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
       src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
     />
   </picture>
+</div>
+
+---
+
+
+
+<h2 align="center">🌐 Socials 🌐</h2>
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/vansh-gaur-63bb3337a/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/vanshgaur17/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
+  </a>
+  <a href="gaurvansh133@gmail.com" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
+  </a>
 </div>
