@@ -71,7 +71,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 ### 🛠️ Tech I enjoy working with
 
 - **Programming Language:** Scala, Python, JavaScript, SQL, C/C++, HTML, CSS
-- **Backend Framework:** Spring Boot
 - **Frontend Framework:** Vue (JavaScript), React (JavaScript)
 - **Database Engine:** PostgreSQL, MySQL
 
