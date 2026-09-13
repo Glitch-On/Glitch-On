@@ -111,7 +111,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
   <a href="https://www.instagram.com/vanshgaur17/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
   </a>
-  <a href="gaurvansh133@gmail.com" target="blank">
+  <!-- <a href="gaurvansh133@gmail.com" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
-  </a>
+  </a> -->
 </div>
