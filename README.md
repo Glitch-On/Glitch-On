@@ -20,12 +20,6 @@
 
 </div>
 
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=victormoni&color=blue&style=flat-square" alt="Profile Views" width="150" height="40"/>
-
-</div>
-
 ## ✨ About Me
 
 💻 **Software Engineer** <br/>
