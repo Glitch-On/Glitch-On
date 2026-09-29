@@ -47,7 +47,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 - Mentor and collaborate with the dev community
 - Contribute to **enterprise-level microservices projects**
 
-### 🛠️ Tech I enjoy working with
+### 🛠️ Tech I enjoy working with these
 
 - **Programming Language:** Scala, Python, JavaScript, SQL, C/C++, HTML, CSS, Node.js
 - **Frontend Framework:** Vue (JavaScript), React (JavaScript)
