@@ -84,7 +84,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 
 
-<h2 align="center">🌐 Socials 🌐</h2>
+<h2 align="center"> Socials </h2>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/vansh-gaur-63bb3337a/" target="blank">
